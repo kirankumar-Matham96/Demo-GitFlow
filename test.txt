@@ -2,4 +2,4 @@
 2)changed in remote master branch
 3)Changed in local master
 3)Changed in remote master
-
+4)Conflict created in remote master again
