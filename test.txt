@@ -3,6 +3,7 @@
 3)Changed in local master
 3)Changed in remote master
 4)Conflict created inside Git local master
+4)Conflict created In git Local master
 4)Conflict created in remote master again
 5)Conflict created in remote new_branch
 6)Conflict created in local new_branch
