@@ -7,3 +7,4 @@
 5)Conflict created in remote new_branch
 6)Conflict created in local new_branch
 6)Conflict created in remote new_branch
+Other candidate changed and updated the code here
